@@ -153,7 +153,7 @@ const RequestPickup = () => {
       )}
 
       <LoadScript
-        googleMapsApiKey="AIzaSyCKGOncl1C9CKmSzx9ExmibDumfVSJWl6s"
+        googleMapsApiKey="[Google API key]"
         libraries={libraries}
       >
         <GoogleMap
